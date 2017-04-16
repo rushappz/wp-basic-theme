@@ -235,3 +235,48 @@ h6, .h6 {
   height: auto;
   margin-bottom: 20px;
 }
+
+.comments {
+  border: 1px solid #CCC;
+  list-style: none;
+}
+
+.comments h3, .comments h2 {
+  background: #EEEEFF;
+  padding: 10px;
+  margin: auto;
+}
+
+.comment-body {
+  margin: 10px;
+  background: #EEE;
+  padding: 10px 10px;
+  font-size: 17px;
+}
+
+.comment-meta {
+  font-size: 15px;
+}
+
+.comment-meta img {
+  width: 60px;
+  height: auto;
+}
+
+.comment-reply-link {
+  color: #000;
+  font-size: 15px;
+  background: #CCC;
+  padding: 7px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px #111;
+}
+
+.comment-form {
+  text-align: left;
+  margin: 5px 10px;
+}
+
+.comment-form input, .comment-form textarea {
+  width: 100%;
+}
