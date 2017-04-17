@@ -280,3 +280,20 @@ h6, .h6 {
 .comment-form input, .comment-form textarea {
   width: 100%;
 }
+
+.post-gallery {
+  background: #333;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.post-gallery h2 {
+  color: #FFF;
+  text-align: center;
+}
+
+.post-gallery img {
+  width: 25%;
+  height: auto;
+  margin: 10px;
+}
